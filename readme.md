@@ -32,10 +32,15 @@ Conseguimos realizar todas as tarefas propostas para o projeto. O código foi im
 
 ### Referências:
 •	https://panda.ime.usp.br/panda/static/pythonds_pt/05-OrdenacaoBusca/Hashing.html
+
 •	https://www.youtube.com/watch?v=juPjfZ5B5Y8 (Tabela Hash em Python: Introdução e Inserção de Elementos – Ygor Amaral)
+
 •	https://www.youtube.com/watch?v=ahXrJ7qPAoQ (Busca Sequencial em Python – Ygor Amaral)
+
 •	https://panda.ime.usp.br/panda/static/pythonds_pt/05-OrdenacaoBusca/BuscaSequencial.html 
+
 •	https://www.youtube.com/watch?v=7b04fg96aN0 (Busca Binária em Python – Ygor Amaral)
+
 •	https://www.alura.com.br/artigos/busca-binaria-aprenda-implementar-python?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwtqmwBhBVEiwAL-WAYSMqBFaLAikHFFFdbgOBvQS6ahVCsTlQBXo_R-7XSe0f5ySsrbUihRoCo6gQAvD_BwE 
 
 ### Análise de resultados: 
