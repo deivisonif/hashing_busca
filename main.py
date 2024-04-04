@@ -69,8 +69,7 @@ class BuscaSequencial:
         self.lista_pessoas = []
 
     def inserir(self, pessoa):
-        if not any(pessoa.cpf == p.cpf for p in self.lista_pessoas):
-            self.lista_pessoas.append(pessoa)
+        self.lista_pessoas.append(pessoa)
 
     def buscar(self, cpf):
         for pessoa in self.lista_pessoas:
